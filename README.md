@@ -2,6 +2,7 @@
 Chat em tempo real com NodeJS + Socket.io
 
 
+
 Para inicializar o projeto basta rodar o seguinte comando:
 node server.js
 
